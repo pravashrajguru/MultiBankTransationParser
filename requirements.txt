@@ -1,0 +1,8 @@
+pandas
+PyMuPDF
+google-genai
+pydantic
+python-dotenv
+structlog
+dotenv
+json-repair
